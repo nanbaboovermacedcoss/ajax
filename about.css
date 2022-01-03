@@ -1,0 +1,51 @@
+body{
+    background-image: url('../Images/writtens.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 655px;
+}
+.aboutImage{
+    border: 2px solid rgb(185, 185, 190);
+    margin: 15px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 8px white;
+}
+.bottomabout{
+    color: white;
+    font-family: Arial;
+    text-shadow: 2px 2px 1px rgba(10, 212, 169, 0.418);
+    font-weight: bold;
+}
+.nanbabu{
+    margin-top: -20px;
+    font-size: 25px;
+    margin-left: 110px;
+}
+.softwareabout{
+    font-size: 20px; 
+    margin-left: 140px;
+    font-style: italic;
+    margin-top: -14px;
+}
+/* about write here */
+#aboutInner{
+    background-color: rgba(222, 184, 135, 0.438);
+    height: 520px;
+    width: 860px;
+    position: absolute;
+    top: 75px;
+    left:480px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 4px white;
+}
+h1{
+    text-align: center;
+}
+h1,p{
+    margin-left: 15px;
+    padding: 6px;
+    font-family: Arial;
+    color: blue;
+}
+.personalabout{
+    color: olivedrab;
+}
