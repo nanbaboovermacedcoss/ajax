@@ -1,0 +1,17 @@
+table,tr,td,th{
+border:1px solid white;
+background-color: black;
+color:white;
+}
+th{
+color: aquamarine;
+}
+button{
+    background-color: blueviolet;
+    border-radius: 10px;
+    height:70px;
+    width: 250px;
+}
+body{
+    background-color: burlywood;
+}
